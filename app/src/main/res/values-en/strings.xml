@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soccer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_jogaadores">JogaadoresActivity</string>
+    <string name="cadastro_jogadores">PLAYER REGISTRATION</string>
+    <string name="nome_do_jogador">Player\'s name</string>
+    <string name="numero_do_jogador">Player Number</string>
+    <string name="posi_o">Position</string>
+    <string name="nome_do_time">Team Name</string>
+    <string name="cadastro_do_time">" Team Registration"</string>
+    <string name="salvar_jogador">" Save Player"</string>
+    <string name="salvar_time">Save Team</string>
+</resources>

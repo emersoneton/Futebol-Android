@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Futebol</string>
+    <string name="action_settings">VOLTAR</string>
+    <string name="title_activity_jogaadores">JogaadoresActivity</string>
+    <string name="posi_o">Posição</string>
+    <string name="numero_do_jogador">Numero do Jogador</string>
+    <string name="cadastro_jogadores">CADASTRO JOGADORES</string>
+    <string name="nome_do_jogador">Nome do Jogador</string>
+    <string name="cadastro_do_time">Cadastro do Time</string>
+    <string name="nome_do_time">Nome do Time</string>
+    <string name="salvar_jogador">Salvar Jogador</string>
+    <string name="salvar_time">Salvar Time</string>
+    <string name="action_cancelar">SAIR</string>
+
+
+</resources>
